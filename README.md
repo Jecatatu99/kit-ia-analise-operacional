@@ -186,3 +186,73 @@ Os valores calculados pela IA coincidiram com os valores obtidos na conferência
 A atividade mostrou que a IA pode reduzir o tempo necessário para organizar registros e preparar um resumo inicial. O principal aprendizado foi que a qualidade do resultado depende de um pedido claro, de limites bem definidos e da conferência humana.
 
 A IA ajudou a organizar e interpretar os dados, mas a decisão de aprovar e utilizar o resultado permaneceu sob minha responsabilidade. O atalho criado poderá ser reutilizado em novas análises, alterando apenas o período, o foco e os registros fornecidos.
+
+## Minha Delegação no final do arquivo.
+
+## Minha Delegação
+
+### Objetivo
+
+Analisar uma base com 12 ocorrências fictícias de monitoramento de um serviço de TV e produzir um resumo estruturado do período de 03/11/2026 a 07/11/2026. A análise deve destacar os principais indicadores, as ocorrências mais longas, as categorias mais frequentes e os registros que ainda estão em acompanhamento.
+
+### Contexto
+
+Esta delegação faz parte de uma atividade acadêmica sobre o uso responsável de inteligência artificial. A atividade representa uma tarefa recorrente de organização e análise de registros operacionais, mas utiliza somente dados fictícios. Nenhum registro representa cliente, sistema, incidente ou informação real de uma empresa.
+
+### Recursos disponíveis
+
+- Base fictícia com 12 ocorrências;
+- Campos de identificação, data, hora, categoria, severidade, duração e situação final;
+- Atalho de análise de ocorrências criado para este projeto;
+- Checklist “Pare, Confira, Use”;
+- Conferência manual dos cálculos;
+- Aprovação humana antes da execução e do uso do resultado.
+
+### Etapas da tarefa
+
+1. Apresentar somente o plano da análise.
+2. Aguardar minha aprovação.
+3. Validar a estrutura e a qualidade dos registros.
+4. Calcular os indicadores solicitados.
+5. Identificar as três ocorrências de maior duração.
+6. Separar fatos comprovados, interpretações e sugestões.
+7. Indicar os pontos que precisam de conferência humana.
+8. Entregar o resultado como rascunho, sem publicação ou envio.
+
+### Limites
+
+- Não inventar campos, valores, causas ou impactos;
+- Não transformar hipóteses em fatos;
+- Não utilizar informações externas para completar os registros;
+- Não incluir dados pessoais ou confidenciais;
+- Não enviar, publicar ou compartilhar o resultado;
+- Não alterar os registros fornecidos;
+- Não executar ações operacionais;
+- Aguardar aprovação antes de iniciar a análise.
+
+### Ações que exigem minha aprovação
+
+A execução da análise deve aguardar a aprovação do plano. Qualquer alteração nos dados, uso externo, publicação, envio de mensagem ou transformação de uma sugestão em ação também dependerá de autorização humana.
+
+### Critério de sucesso
+
+A tarefa será considerada concluída quando:
+
+- os 12 registros forem considerados;
+- os cálculos coincidirem com a conferência manual;
+- as maiores durações forem identificadas corretamente;
+- fatos, interpretações e sugestões estiverem separados;
+- nenhum dado tiver sido inventado;
+- as informações permanecerem como rascunho;
+- os pontos que exigem validação humana estiverem destacados.
+
+### Resultado esperado para validação
+
+- Total de ocorrências: 12;
+- Duração total: 414 minutos;
+- Duração média: 34,5 minutos;
+- Ocorrências resolvidas: 10;
+- Ocorrências em acompanhamento: 2;
+- Três maiores durações: 75, 68 e 48 minutos.
+
+
