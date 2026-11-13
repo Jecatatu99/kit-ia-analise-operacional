@@ -154,3 +154,35 @@ O resumo será considerado satisfatório se:
 Antes de escrever o resumo, apresente somente um plano curto e aguarde minha aprovação.
 
 ```
+## O Plano da IA
+
+A IA apresentou um plano dividido em validação dos dados, cálculo dos indicadores, identificação das maiores durações, análise de concentrações, separação entre fatos e sugestões e conferência humana.
+
+Antes de autorizar a execução, conferi se o plano incluía a verificação dos campos, possíveis duplicidades, cálculos, categorias, severidades e pontos que precisariam de validação.
+
+<img width="560" height="434" alt="image" src="https://github.com/user-attachments/assets/275955ad-4c24-476e-a366-fdd699e9f0b7" />
+
+
+## O Resultado
+
+A IA analisou 12 ocorrências fictícias e apresentou os indicadores, as ocorrências de maior duração, os fatos encontrados, as interpretações que precisavam de validação e as sugestões de acompanhamento.
+
+Na conferência manual, validei os seguintes resultados:
+
+- Total de ocorrências: 12;
+- Duração total: 414 minutos;
+- Duração média: 34,5 minutos;
+- Ocorrências resolvidas: 10;
+- Ocorrências em acompanhamento: 2;
+- Três maiores durações: 75, 68 e 48 minutos.
+
+Os valores calculados pela IA coincidiram com os valores obtidos na conferência manual. Também confirmei que as sugestões estavam separadas dos fatos e que nenhuma informação ausente foi inventada.
+
+<img width="1085" height="464" alt="image" src="https://github.com/user-attachments/assets/d527ed45-ee49-46dd-a221-fc7e18c4b0bf" />
+
+
+## Como Foi para Você
+
+A atividade mostrou que a IA pode reduzir o tempo necessário para organizar registros e preparar um resumo inicial. O principal aprendizado foi que a qualidade do resultado depende de um pedido claro, de limites bem definidos e da conferência humana.
+
+A IA ajudou a organizar e interpretar os dados, mas a decisão de aprovar e utilizar o resultado permaneceu sob minha responsabilidade. O atalho criado poderá ser reutilizado em novas análises, alterando apenas o período, o foco e os registros fornecidos.
