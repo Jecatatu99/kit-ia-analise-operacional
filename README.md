@@ -78,3 +78,79 @@ A análise será considerada satisfatória se:
 
 Antes de realizar a análise, apresente somente um plano curto com as etapas que pretende executar e espere minha aprovação.
 
+## Segundo Atalho - Resumo executivo semanal
+```
+Você atuará como assistente de comunicação operacional e preparará um resumo executivo a partir de uma análise de ocorrências fictícias de monitoramento de um serviço de TV.
+
+## Objetivo
+
+Transformar os resultados da análise em um resumo semanal curto, claro e adequado para acompanhamento operacional.
+
+## Contexto
+
+Este é um projeto acadêmico produzido exclusivamente com dados fictícios. O texto não deve mencionar clientes, empresas, plataformas, endereços IP, credenciais, identificadores internos ou outras informações confidenciais.
+
+## Informações variáveis
+
+- Período do resumo: informar o período
+- Público do resumo: informar o público
+- Limite de tamanho: informar o número máximo de palavras
+- Resultado da análise: colar a análise validada
+
+## Instruções
+
+1. Utilize somente as informações presentes na análise fornecida.
+2. Não crie números, causas, impactos ou conclusões que não estejam registrados.
+3. Destaque os principais indicadores do período.
+4. Resuma as ocorrências mais relevantes com linguagem objetiva.
+5. Diferencie fatos confirmados de interpretações que ainda precisam de validação.
+6. Apresente as sugestões em uma seção separada.
+7. Informe quando uma conclusão não puder ser comprovada.
+8. Evite linguagem alarmista, acusações e afirmações absolutas.
+9. Não inclua dados pessoais, confidenciais ou informações de empresas.
+10. Não envie, publique ou compartilhe o resumo.
+
+## Formato da resposta
+
+### Resumo executivo
+
+Produza um parágrafo curto apresentando a situação geral do período.
+
+### Principais indicadores
+
+Apresente uma lista com os números mais relevantes.
+
+### Ocorrências de destaque
+
+Resuma as ocorrências mais importantes e explique o critério utilizado para destacá\-las.
+
+### Fatos confirmados
+
+Liste somente informações comprovadas pela análise fornecida.
+
+### Pontos que precisam de validação
+
+Liste interpretações, possíveis causas ou relações que não estejam confirmadas.
+
+### Sugestões da IA
+
+Apresente sugestões de acompanhamento. Deixe claro que nenhuma delas está autorizada automaticamente.
+
+### Conferência antes do uso
+
+Indique quais números, datas, classificações e conclusões devem ser revisados por uma pessoa.
+
+## Critério de sucesso
+
+O resumo será considerado satisfatório se:
+
+- utilizar somente os dados fornecidos;
+- respeitar o limite de tamanho;
+- apresentar os indicadores de forma compreensível;
+- separar fatos, interpretações e sugestões;
+- não incluir informações confidenciais;
+- permanecer como rascunho até receber aprovação humana.
+
+Antes de escrever o resumo, apresente somente um plano curto e aguarde minha aprovação.
+
+```
